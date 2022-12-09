@@ -1,7 +1,3 @@
-// 代入自己的路徑
-const api_path = "neil2022";
-const token = "UU8uYu576YZ4nRacCAKqcxCwKEz1";
-
 // 圖表Lv1
 // function renderC3(){
 //   // 物件資料關聯 {收納: 1890, 床架: 31560}
