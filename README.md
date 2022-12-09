@@ -1,13 +1,17 @@
-# JS-week8-final
+# 2022 JavaScript 直播班最終任務-六角學院
 
 ## Description
 
-#### 版型為[六角學院](https://www.hexschool.com/)JavaScript直播班最終任務，練習內容為JavaScript的API串接
+#### 版型為[六角學院](https://www.hexschool.com/)JavaScript直播班最終任務，練習內容主要為JavaScript的API串接。
 
 ## Using Language
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
+
+## Using Resources
+- [XD設計稿](https://xd.adobe.com/view/a48b8617-4588-4817-9062-b62130dce916-f1d8/)
+- [流程圖](https://whimsical.com/Eg1f7MCzy9UcBJjkpq8TLP)
 
 ## Demo Link
 
@@ -18,7 +22,7 @@
 ## Skills I Have Use
 
 - AJAX 非同步網路請求
-- axios 串接 API 資料 (get post delete)
+- axios 串接 API 服務
 - c3.js 圖表
 
 ## Plungin
